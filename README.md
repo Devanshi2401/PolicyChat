@@ -214,4 +214,4 @@ PolicyChat/
 
 ---
 
-<p align="center">Built by <strong>Akshat Parikh</strong> · MS Data Science, UT Arlington</p>
+<p align="center">Built by <strong>Devanshi Shah</strong> · MS Business Analytics, UT Arlington</p>
